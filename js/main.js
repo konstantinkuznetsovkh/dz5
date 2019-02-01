@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function () {
 $( '#menu-tabs li' ).click( function() {
   var thisClass = this.className.slice( 0, 2 );
   $( 'div.t1' ).hide();
@@ -440,9 +441,9 @@ function task10() {
     i++;
   }
 }
-document.addEventListener("DOMContentLoaded", ready);
+// document.addEventListener("DOMContentLoaded", ready);
 
 
-// });
+});
 
 //the end
