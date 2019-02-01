@@ -440,7 +440,7 @@ function task10() {
     i++;
   }
 }
-
+document.addEventListener("DOMContentLoaded", ready);
 
 
 // });

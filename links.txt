@@ -38,7 +38,7 @@ https://github.com/konstantinkuznetsovkh/dz4.github.io
 
 
 Дз 5 сайт на GitHub: 
-https://konstantinkuznetsovkh.github.io/dz5.github.io
+https://konstantinkuznetsovkh.github.io/dz5
 
 Дз 5 GitHub repository: 
 https://github.com/konstantinkuznetsovkh/dz5.github.io
